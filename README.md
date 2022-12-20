@@ -29,9 +29,9 @@ npm install
 
 ***
 To run the application and retrieve artists from the artist.search/library.getArtists endpoint run the following command: 
-```
+
 node index.js <author-name> <CSV-file-name> 
-```
+
 ***
 - author-name - the name of the artist. It can be given name like 'cher' which exists in the list or a random name like 'wewe3fr'
 - CSV-file-name  - name of the csv file---> where the output data should be stored. The name can be provided with/without a .csv extension. In case you do not provide a file name, the output data would be stored in the default file name called "artistData.csv".
