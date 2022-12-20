@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "incedo",
+  "version": "1.0.0",
+  "description": "Application that creates files which contains the retrieved artist from last.fm API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "app"
+  ],
+  "author": "Vlado Mucunski",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
