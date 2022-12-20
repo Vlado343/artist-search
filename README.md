@@ -28,9 +28,10 @@ npm install
 ```
 
 ***
-To run the application and retrieve artists from the artist.search/library.getArtists endpoint run the following command: 
+To run the application and retrieve artists from the artist.search/library.getArtists endpoint run the following command which is explained more in details below: 
 
 node index.js <author-name> <CSV-file-name> 
+
 
 ***
 - author-name - the name of the artist. It can be given name like 'cher' which exists in the list or a random name like 'wewe3fr'
